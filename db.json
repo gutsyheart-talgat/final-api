@@ -1,0 +1,197 @@
+{
+  "list": [
+    {
+      "id": "J18xq69i3",
+      "marks": "toyota",
+      "kuzov": "внедорожник",
+      "kpp": "автомат",
+      "privod": "полный",
+      "toplivo": "бензин",
+      "rul": "слева",
+      "price": " 10000",
+      "color": "черный",
+      "desc": "фываыфва ыва ыфвафрыгшвпарфыириагиырфпвшнапшришрфыва",
+      "year": "2012",
+      "obem": "1.5"
+    },
+    {
+      "id": "ES47lAJBX3",
+      "marks": "mers",
+      "kuzov": "седан",
+      "kpp": "механика",
+      "privod": "задний",
+      "toplivo": "дизель",
+      "rul": "справа",
+      "price": "1500",
+      "color": "красный",
+      "desc": "фвыаыфвафывафыва ывфафывафыва",
+      "year": "2012",
+      "obem": "2.5"
+    },
+    {
+      "id": "B6i-mYq_g",
+      "marks": "bmw",
+      "kuzov": "хэтчбэк",
+      "kpp": "автомат",
+      "privod": "передний",
+      "toplivo": "бензин",
+      "rul": "слева",
+      "price": "3456",
+      "color": "зеленый",
+      "desc": "фываыф ывакфываф ыва ываыфвафыывафвыафывафывафывафвафыва",
+      "year": "2012",
+      "obem": "1.6"
+    },
+    {
+      "id": "DljY2WW4v",
+      "marks": "audi",
+      "kuzov": "универсал",
+      "kpp": "автомат",
+      "privod": "полный",
+      "toplivo": "дизель",
+      "rul": "справа",
+      "price": "2345",
+      "color": "серый",
+      "desc": "фывафывафвыаыфваыфваываыфва",
+      "year": "2012",
+      "obem": "2"
+    },
+    {
+      "id": "1",
+      "marks": "audi",
+      "kuzov": "универсал",
+      "kpp": "автомат",
+      "privod": "полный",
+      "toplivo": "дизель",
+      "rul": "справа",
+      "price": "2345",
+      "color": "серый",
+      "desc": "фывафывафвыаыфваыфваываыфва",
+      "year": "2012",
+      "obem": "3.5"
+    },
+    {
+      "id": "asdfassdfafaf",
+      "marks": "audi",
+      "kuzov": "седан",
+      "kpp": "механика",
+      "privod": "полный",
+      "toplivo": "дизель",
+      "rul": "справа",
+      "price": "2333",
+      "color": "серый",
+      "desc": "фывафывафвыаыфваыфваываыфва",
+      "year": "2012",
+      "obem": "4.4"
+    },
+    {
+      "id": "16If5stRX",
+      "done": false,
+      "marks": "lexus",
+      "privod": "передний",
+      "toplivo": "дизель",
+      "rul": "справа",
+      "kpp": "автомат",
+      "kuzov": "хэтчбэк",
+      "color": "black",
+      "price": "20000",
+      "desc": "asdfasdfdsf",
+      "obem": "22",
+      "year": "2019"
+    },
+    {
+      "id": "9wR2opWRL",
+      "done": false,
+      "marks": "lexus",
+      "privod": "передний",
+      "toplivo": "дизель",
+      "rul": "слева",
+      "kpp": "механика",
+      "kuzov": "внедорожник",
+      "color": "asdf",
+      "price": "2020",
+      "desc": "adsfasdf sdf ds sa",
+      "obem": "2",
+      "year": "2002"
+    },
+    {
+      "id": "GHFBXvY3P",
+      "done": false,
+      "marks": "lexus",
+      "privod": "передний",
+      "toplivo": "дизель",
+      "rul": "справа",
+      "kpp": "автомат",
+      "kuzov": "внедорожник",
+      "color": "white",
+      "price": "120000",
+      "desc": "vasyaaaa!!!!",
+      "obem": "5.7",
+      "year": "2019"
+    },
+    {
+      "id": "nHU3_GvYd",
+      "done": false,
+      "marks": "lexus",
+      "privod": "передний",
+      "toplivo": "дизель",
+      "rul": "слева",
+      "kpp": "автомат",
+      "kuzov": "хэтчбэк",
+      "color": "blue",
+      "price": "12009",
+      "desc": "asdfasdf sd sd sdf sda fd asdf",
+      "obem": "2",
+      "year": "2019"
+    },
+    {
+      "id": "TPh3kZRE5",
+      "done": false,
+      "marks": "марка",
+      "privod": "Привод",
+      "toplivo": "Топливо",
+      "rul": "Руль",
+      "kpp": "Коробка",
+      "kuzov": "Кузов",
+      "color": "Цвет",
+      "price": "Цена",
+      "desc": "Описание",
+      "obem": "Объем",
+      "year": "Год"
+    },
+    {
+      "id": "vvS107IWI",
+      "done": false,
+      "marks": "kia",
+      "privod": "передний",
+      "toplivo": "дизель",
+      "rul": "справа",
+      "kpp": "автомат",
+      "kuzov": "хэтчбэк",
+      "color": "tolya",
+      "price": "20000000000",
+      "desc": "tolyan",
+      "obem": "2.5",
+      "year": "2020"
+    }
+  ],
+  "users": [
+    {
+      "token": "token_bhje73bkj38jlds9",
+      "data": {
+        "id": "fsdu274dHsw",
+        "username": "admin",
+        "password": "1234",
+        "firstname": "John",
+        "lastname": "Smith"
+      }
+    },
+    {
+      "data": {
+        "username": "talgat",
+        "password": "adsfasdfasfasdf"
+      },
+      "token": "token_g0LsYqk3t"
+    }
+  ]
+}
